@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Ikponwosae/four-card-feature-section-master](https://github.com/Ikponwosae/four-card-feature-section-master)
+- Live Site URL: [https://four-card-feature-section-master-ikponwosae.vercel.app/](https://four-card-feature-section-master-ikponwosae.vercel.app/)
 
 ## My process
 
